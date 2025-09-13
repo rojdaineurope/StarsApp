@@ -17,4 +17,4 @@ javac Stars.java
 java Stars
 ## ScreenShot
 
-![Stars GUI](screenshot.png)
+![Stars GUI](Screenshot.png)
