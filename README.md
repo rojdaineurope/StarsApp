@@ -18,6 +18,8 @@ java Stars
 
 ## Screenshot
 
-![StarsApp GUI](Screenshot.png)
+![StarsApp GUI](screenshot.png)
+
+
 
 
