@@ -16,9 +16,9 @@ A simple Java Swing application that prints a triangle of stars based on user in
 javac Stars.java
 java Stars
 
-## Screenshot
+## Screenshot 
 
-![StarsApp GUI](screenshot.png)
+![StarsApp GUI](Screenshot.png)
 
 
 
